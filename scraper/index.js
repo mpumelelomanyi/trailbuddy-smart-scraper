@@ -21,4 +21,3 @@ app.post('/scrape', async (req, res) => {
 });
 
 app.listen(port, () => console.log(`Smart scraper running on port ${port}`));
-
